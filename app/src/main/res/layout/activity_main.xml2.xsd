@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://schemas.android.com/tools" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:attribute name="context" type="xs:string"/>
+  <xs:attribute name="layout_editor_absoluteX" type="xs:string"/>
+  <xs:attribute name="layout_editor_absoluteY" type="xs:string"/>
+  <xs:attribute name="src" type="xs:string"/>
+</xs:schema>
